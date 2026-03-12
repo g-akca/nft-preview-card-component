@@ -1,16 +1,6 @@
 @import "tailwindcss";
 
 :root {
-  --white: #FFFFFF;
-  --black: #000000;
-
-  --blue-950: #0D192C;
-  --blue-900: #15263F;
-  --blue-800: #2E405A;
-  --blue-500: #8BACD9;
-
-  --cyan-400: #00FFF8;
-  
   font-family: "Outfit", sans-serif;
   font-size: 18px;
   line-height: 125%;
