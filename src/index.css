@@ -1,11 +1,15 @@
 @import "tailwindcss";
 
+@theme {
+  --font-outfit: "Outfit", sans-serif;
+  --text-base: 18px;
+  --leading-base: 125%;
+}
+
 :root {
   font-family: "Outfit", sans-serif;
   font-size: 18px;
   line-height: 125%;
-  color: var(--blue-500);
-  background-color: var(--blue-950);
 }
 
 * {
